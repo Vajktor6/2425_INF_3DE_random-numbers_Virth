@@ -1,7 +1,7 @@
 import random
 
 def roll_die(k):
-    return random.randint(0, 6)
+    return random.randint(1, 6)
     pass
 
 # Otestování funkce
